@@ -1,6 +1,6 @@
 # Arduino + Python -> Holodeck
 
-Code for Max Fonseca's projcet
+Code for Max Fonseca's project
 To use this project you need to install few libraries for Arduino and Python.
 ## Arduino Libraries
 The first library that you need to install is '''Picovoice_EN.h'''.
